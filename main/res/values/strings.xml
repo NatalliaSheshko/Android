@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laba1AgeCalculator</string>
+    <string name="buttonHours">Рассчитать возвраст в часах</string>
+    <string name="buttonMinutes">Рассчитать возвраст в минутах</string>
+    <string name="ChooseDate">Выберите дату рождения</string>
+    <string name="CurrentDate">Текущая дата:</string>
+    <string name="BirthdayDate">Дата вашего рождения:</string>
+    <string name="buttonMonths">Рассчитать возвраст в месяцах</string>
+    <string name="Result">Ваш возвраст:</string>
+    <string name="Title">Калькулятор возвраста</string>
+</resources>
